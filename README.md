@@ -78,9 +78,9 @@ I build deterministic multi-agent state machines, scalable multi-tenant RAG arch
 
 <br />
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Aftabmallick&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" /><br /><br />
-  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=Aftabmallick&theme=blue_navy&hide_border=false" /><br /><br />
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabmallick&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img loading="lazy" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aftabmallick&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Aftab's GitHub Stats" /><br /><br />
+  <img loading="lazy" src="https://streak-stats.demolab.com/?user=Aftabmallick&theme=blue_navy&hide_border=false" alt="Aftab's Streak Stats" /><br /><br />
+  <img loading="lazy" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aftabmallick&theme=blue_navy&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -88,7 +88,7 @@ I build deterministic multi-agent state machines, scalable multi-tenant RAG arch
 <h1 align="center"> 🏆 GitHub Trophies </h1>
 <br />
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aftabmallick&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-nu.vercel.app/?username=Aftabmallick&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a> 
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
